@@ -12,7 +12,7 @@ const data: Project[] = [
     title: 'Dangs Bird Festival',
     subtitle: 'Dangs, Gujarat, India',
     link: 'https://india.mongabay.com/2020/02/bird-festival-puts-spotlight-on-the-biodiversity-of-gujarats-dang-forests/',
-    image: '/NJ-resume/images/projects/nearestdollar.jpg',
+    image: 'https://nikunjjambu.info/images/projects/nearestdollar.jpg',
     date: '2016-01-01',
     desc:
       'The Dang Bird Festival was started in 2016 by two researchers, Nikunj Jambu and Kaushal Patel' +
@@ -24,7 +24,7 @@ const data: Project[] = [
     title: '297 Bird species make Dang their home',
     subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
     link: 'https://timesofindia.indiatimes.com/city/surat/297-bird-species-make-dang-their-home/articleshow/85160088.cms',
-    image: '/NJ-resume/images/projects/harvest.jpg',
+    image: 'https://nikunjjambu.info/images/projects/harvest.jpg',
     date: '2021-10-09',
     desc:
       'The paper has been co-authered by Nikunj Jambu and Kaushal Patel' +
@@ -35,7 +35,7 @@ const data: Project[] = [
     title: 'Training forest department staff in Rajasthan',
     subtitle: 'A kickstarter funded potato powered weather balloon.',
     link: 'https://festhecommonpool.wordpress.com/2022/03/30/fes-supporting-the-forest-department-to-create-working-plan/',
-    image: '/NJ-resume/images/projects/spacepotato.jpg',
+    image: 'https://nikunjjambu.info/images/projects/spacepotato.jpg',
     date: '2022-03-30',
     desc:
       'The training workshops, facilitated by Dr. Satish Sharma (retired ACF, Rajasthan Forest Department) and Nikunj Jambu,' +

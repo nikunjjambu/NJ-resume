@@ -16,6 +16,7 @@
     "build": "next build",
     "build:turbo": "TURBOPACK=1 next build --turbopack",
     "start": "next start",
+    "clean": "rd /s /q out && rd /s /q .next",
     "preview": "npx serve out",
     "lint": "next lint",
     "type-check": "tsc --noEmit",

@@ -1,11 +1,11 @@
 import type { NextConfig } from 'next';
 
-const repoName = 'NJ-resume';
+//const repoName = 'NJ-resume';
 
 const nextConfig: NextConfig = {
   output: 'export',
-  basePath: '/NJ-resume',
-  assetPrefix: '/NJ-resume',
+  // basePath: '/NJ-resume',
+  // assetPrefix: '/NJ-resume',
   images: {
     unoptimized: true,
   },

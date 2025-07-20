@@ -16,7 +16,7 @@ const SideBar: React.FC = () => {
       <section id="intro">
         <Link href="/" className="logo">
           <Image
-            src="/NJ-resume/images/me.jpg"
+            src="https://nikunjjambu.info/images/me.jpg"
             alt="Nikunj Jambu"
             width={300}
             height={200}
