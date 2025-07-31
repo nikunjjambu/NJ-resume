@@ -44,11 +44,11 @@ const SideBar: React.FC = () => {
       <section className="blurb">
         <h2>About</h2>
         <p>
-          Hi, I&apos;m Nikunj. I am a{' '}
-          <a href="https://msubaroda.ac.in/academics/FOS">MSU, Baroda</a> graduate, trained in field
-          biology. I have worked on various reserach projects focused on Tiger population ecology
-          and various species of birds in India. I am currently working as a MEL Specialist at the
-          Nautre Conservancy.
+          Hi, I&apos;m Nikunj, a zoologist from{' '}
+          <a href="https://msubaroda.ac.in/academics/FOS">MSU, Baroda</a> , specialized in Avian and
+          Wildlife Biology. I have spent over a decade working on various research projects. My
+          focus has been Indian bird species, tiger population ecology, and conservation technology.
+          I currently work as MEL Officer at The Nature Conservancy, India.
         </p>
         <ul className="actions">
           <li>

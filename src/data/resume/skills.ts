@@ -16,6 +16,56 @@ const skills: Skill[] = [
     category: ['Databases', 'Tools'],
   },
   {
+    title: 'Wildlife Monitoring',
+    competency: 5,
+    category: ['Field Ecology & Conservation'],
+  },
+  {
+    title: 'Species Surveys',
+    competency: 5,
+    category: ['Field Ecology & Conservation'],
+  },
+  {
+    title: 'Habitat Assessment',
+    competency: 4,
+    category: ['Field Ecology & Conservation'],
+  },
+  {
+    title: 'Protected Area Research',
+    competency: 4,
+    category: ['Field Ecology & Conservation'],
+  },
+  {
+    title: 'Conservation Planning',
+    competency: 4,
+    category: ['Field Ecology & Conservation'],
+  },
+  {
+    title: 'Log frames & Theory of Change',
+    competency: 4,
+    category: ['Monitoring, Evaluation & Learning (MEL)'],
+  },
+  {
+    title: 'Participatory Monitoring',
+    competency: 3,
+    category: ['Monitoring, Evaluation & Learning (MEL)'],
+  },
+  {
+    title: 'Indicator Design',
+    competency: 5,
+    category: ['Monitoring, Evaluation & Learning (MEL)'],
+  },
+  {
+    title: 'Data Pipelines',
+    competency: 4,
+    category: ['Monitoring, Evaluation & Learning (MEL)', 'Data Science'],
+  },
+  {
+    title: 'Data Collection Tools and Techniques',
+    competency: 4,
+    category: ['Monitoring, Evaluation & Learning (MEL)', 'Tools'],
+  },
+  {
     title: 'PostgreSQL',
     competency: 4,
     category: ['Databases', 'Languages'],
@@ -23,7 +73,7 @@ const skills: Skill[] = [
   {
     title: 'ArcGIS Pro',
     competency: 5,
-    category: ['Tools', 'Geospatial', 'Cartography'],
+    category: ['Tools', 'Geospatial', 'Cartography', 'Monitoring, Evaluation & Learning (MEL)'],
   },
   {
     title: 'QGIS',
@@ -38,27 +88,42 @@ const skills: Skill[] = [
   {
     title: 'ArcGIS Online',
     competency: 4,
-    category: ['Geospatial', 'Tools', 'Cartography'],
+    category: ['Geospatial', 'Tools', 'Cartography', 'Monitoring, Evaluation & Learning (MEL)'],
   },
   {
     title: 'ArcGIS StoryMaps',
     competency: 4,
-    category: ['Tools', 'Data Visualization', 'Geospatial'],
+    category: [
+      'Tools',
+      'Data Visualization',
+      'Geospatial',
+      'Monitoring, Evaluation & Learning (MEL)',
+    ],
   },
   {
     title: 'ArcGIS Dashboards',
     competency: 5,
-    category: ['Tools', 'Data Visualization', 'Geospatial'],
+    category: [
+      'Tools',
+      'Data Visualization',
+      'Geospatial',
+      'Monitoring, Evaluation & Learning (MEL)',
+    ],
   },
   {
     title: 'ArcGIS experience builder',
     competency: 2,
-    category: ['Tools', 'Data Visualization', 'Geospatial'],
+    category: [
+      'Tools',
+      'Data Visualization',
+      'Geospatial',
+      'Monitoring, Evaluation & Learning (MEL)',
+    ],
   },
   {
     title: 'ArcGIS Survey123',
     competency: 5,
-    category: ['Tools', 'Data Collection', 'Geospatial'],
+    category: ['Tools', 'Data Collection', 'Geospatial', 'Monitoring, Evaluation & Learning (MEL)'],
   },
   {
     title: 'ArcGIS Field Maps',
@@ -78,7 +143,12 @@ const skills: Skill[] = [
   {
     title: 'Tableau',
     competency: 3,
-    category: ['Data Visualization', 'Tools', 'Data Science'],
+    category: [
+      'Data Visualization',
+      'Tools',
+      'Data Science',
+      'Monitoring, Evaluation & Learning (MEL)',
+    ],
   },
   {
     title: 'Jupyter',
@@ -88,17 +158,22 @@ const skills: Skill[] = [
   {
     title: 'Power BI',
     competency: 3,
-    category: ['Data Visualization', 'Tools', 'Data Science'],
+    category: [
+      'Data Visualization',
+      'Tools',
+      'Data Science',
+      'Monitoring, Evaluation & Learning (MEL)',
+    ],
   },
   {
     title: 'Kobotoolbox',
     competency: 4,
-    category: ['Tools', 'Data Collection', 'Geospatial'],
+    category: ['Tools', 'Data Collection', 'Geospatial', 'Monitoring, Evaluation & Learning (MEL)'],
   },
   {
     title: 'EpiCollect',
     competency: 5,
-    category: ['Tools', 'Data Collection', 'Geospatial'],
+    category: ['Tools', 'Data Collection', 'Geospatial', 'Monitoring, Evaluation & Learning (MEL)'],
   },
   {
     title: 'R',

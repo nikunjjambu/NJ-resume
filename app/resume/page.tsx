@@ -40,6 +40,15 @@ export default function ResumePage() {
                 <a href={`#${section.id}`}>{section.name}</a>
               </h4>
             ))}
+            <h4>
+              <a
+                href="https://nikunjjambu.info/Nikunj_Jambu_Resume.pdf"
+                download
+                className="nav-link"
+              >
+                DOWNLOAD PDF
+              </a>
+            </h4>
           </div>
         </div>
       </header>

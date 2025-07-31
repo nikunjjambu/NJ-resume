@@ -20,6 +20,7 @@ const work: Position[] = [
     summary: 'I work as an MEL Officer at The Nature Conservancy. My role involves:',
     highlights: [
       'Develop and implement Monitoring, Evaluation, and Learning (MEL) frameworks for projects focused on community conservation, agroforestry, and human-elephant conflict mitigation',
+      'Integrate projects’ Theory of Change and equity considerations into the MEL frameworks',
       'Translate field and spatial data into clear, actionable insights that support project teams and stakeholder communication',
       'Design custom Survey123 and XLSForm tools to enable scalable, structured field data collection',
       'Integrate biodiversity monitoring, spatial analysis, and local insights into MEL systems to inform adaptive strategies',
@@ -33,22 +34,24 @@ const work: Position[] = [
     url: 'https://fes.org.in/',
     startDate: '2020-09-01',
     endDate: '2023-03-01',
-    summary: `At FES, I was involved in two projects namely Integrated Forest Management System (IFMT) and Indian Biodiversity Information System (IBIS). More details follow: `,
+    summary: `At FES, my work focussed on two pivotal projects, namely Integrated Forest Management System (IFMT) and Indian Biodiversity Information System (IBIS): `,
     highlights: [
-      'IFMT: This project dealt with providing technical expertise and assistance in preparation of the Working Plan of Territorial Forest Management of various forest Divisions. In its Native format, IFMT is used by entire Rajasthan Forest department. As part of the work, I have trained more than 2500 forest staff in the aspects of data collection and principles of working plan. As a part of Scaling operations, IFMT is adapted in form of VanApp and is used by more than 7 states and is going to be made mandatory by Ministry of Environment and Forests (MoEF).',
-      'IBIS: is a biodiversity portal developed by FES in 2009 provided information regarding floral and faunal groups. I was leading a team to revamp the portal to bring it to current standards of citizen sciences and technology. The revamped portal is a built on a GIS engine and provides information on all floral and faunal groups. The new portal is built on international data standards and taxonomy.',
-      'Apart from the above two projects, I was working on using Species Distribution Modelling (SDM) tool to conceptualize and develop an Eco-restoration tool which helps common people in plantation of Native local plant species.  ',
+      'IFMT: Indian Forest Management Tool is an app that FES developed to provide technical expertise and assistance to Forest departments of various Indian states in making the Working Plan of Territorial Forest Management. My work included training. I personally trained over 2500 forest staff in the aspects of data collection and principles of the working plan. As part of scaling operations, IFMT, which got adapted into VanApp, is today used by more than 7 states. VanApp is soon to be made mandatory by the Ministry of Environment, Forests, and Climate Change (MoEFCC). Here is a detailed write-up of on the IFMT app and its significance. ',
+      'IBIS: is a biodiversity portal that FES developed in 2009; it provides information regarding flora and fauna of any region. I led a team in an initiative to revamp the portal and bring it to the current standards of data, citizen sciences, and technology. Built on a GIS engine, IBIS now provides information on all floral and faunal groups. The new portal is built on international data standards and taxonomy.',
+      'Beyond the above two projects, while working with FES, I used the Species Distribution Modelling (SDM) tool to also conceptualize an eco-restoration tool, named Right Tree Right Place, which aims to help local communities in their efforts to promote native plant species.',
     ],
   },
   {
     name: 'Salim Ali Centre for Ornithology and Natural History (SACON)',
     position: 'Junior Research Biologist (GIS Analyst)',
     url: 'https://www.sacon.in/',
-    startDate: '2018-01-01',
+    startDate: '2017-12-01',
     endDate: '2019-12-31',
-    summary: `I worked in a project titled "Assessment of status, distribution and threats to the population of threatened Sarus Crane (Grus antigone) in Gujarat, India"`,
+    summary: `I worked on a project titled “Assessment of Status, Distribution and Threats to the Population of Sarus Crane (Grus Antigone) in Gujarat, India”.`,
     highlights: [
-      'I was involved in the capacity of GIS Analyst responsible for carrying out landscape change detection for over 60 years.',
+      'Analysed GIS-based long-term data on land use and land cover changes in Sarus Crane habitats across Gujarat',
+      'Processed satellite imagery to detect landscape-level changes over six decades',
+      'Conducted ground-truthing efforts and integration of field data with spatial layers',
     ],
   },
   {
@@ -57,9 +60,14 @@ const work: Position[] = [
     url: 'https://wii.gov.in/',
     startDate: '2017-06-01',
     endDate: '2017-12-31',
-    summary: `I worked in a project titled "Black-Necked Crane Conservation Project based in Arunachal Pradesh, India"`,
+    summary: `I worked on a project titled "Black Necked Crane Conservation & eFlow Assessment, Nyamjang Chu River (Zemithang Valley, Arunachal Pradesh)".`,
     highlights: [
-      'This Project focused on understanding the Habitat requirements of the species in Nyamjang Chhu river basin near Zemithang village. This is a proposed site for a hydel power project to be undertaken by Noida based Bhilwara group.',
+      'Conducted field research in the Nyamjang Chhu river basin near Zemithang village, Tawang district, a key wintering site for the Black Necked Crane (Grus nigricollis)',
+      'Surveyed crane habitat in dry riverbeds, stream edges, and riparian shrub zones, especially those dominated by Hippophae spp., in which cranes forage and roost',
+      'Recorded hydrological data to help establish habitat suitability criteria related to water depth and flow velocity',
+      'Supported the assessment of potential ecological impacts from a proposed 780 MW hydroelectric project by Bhilwara Energy Ltd, which could have submerged a large portion of the crane’s habitat',
+      'Gathered findings from the study to suggest conservation recommendations, leading to the scrapping of the dam project subsequently, helping protect this critical habitat',
+      'Gained valuable field experience in high-altitude Himalayan riverine ecosystems and species-habitat assessment',
     ],
   },
   {
@@ -70,7 +78,10 @@ const work: Position[] = [
     endDate: '2017-06-30',
     summary: `The grant was part of the project "Conservation and Sustainable Management of Coastal and Marine Protected Areas (CMPA) in India"`,
     highlights: [
-      'The consultancy project titled "Avifaunal Survey to Understand Bird- Habitat Linkages at Khijadiya Wildlife Sanctuary and Gosabara Wetland in Gujarat" looked at habitat needs of various species at the two wetlands of Gujarat state among various ecological aspects. ',
+      'Conducted an ecological study named “Assessing bird-habitat linkages at Khijadiya Wildlife Sanctuary and Gosabara Wetland, key biodiversity hotspots in Gujarat”',
+      'Surveyed avian diversity, documented species-specific habitat dependencies, and identified critical conservation zones to inform wetland management strategies',
+      'Analyzed ecological data to support evidence-based recommendations for protecting threatened species and their ecosystems',
+      'Led the GIZ initiative on coastal and marine conservation by delivering actionable insights for sustainable habitat preservation',
     ],
   },
   {
@@ -79,11 +90,11 @@ const work: Position[] = [
     url: 'https://www.rufford.org/projects/nikunj-jambu/avifaunal-conservation-through-research-awareness-and-generating-alternative-livelihood-options-in-purna-wildlife-sanctuary-gujarat/',
     startDate: '2015-07-01',
     endDate: '2016-07-01',
-    summary: `The grant was part of the project "Avifaunal Conservation through Research, Awareness and Generating Alternative Livelihood Options in Purna Wildlife Sanctuary, Gujarat"`,
+    summary: `This grant was part of the project titled "Avifaunal Conservation Through Research, Awareness and Generating Alternative Livelihood Options in Purna Wildlife Sanctuary, Gujarat". It had three parallel objectives:`,
     highlights: [
-      'Research: 1) Avifaunal diversity estimation 2) Socioeconomic condition of the indigenous farming tribes, especially in the wake of droughts 3) Gauge people’s awareness levels and ascertain extent of hunting',
-      'Awareness: 1) Nature workshops to sensitise school children, teachers and parents 2) Nature trails to reshape the perspective of villagers about avifauna ',
-      'Generation of alternative livelihoods, with help from the government departments: 1) Promote general awareness about Purna, particularly, as a bird sanctuary 2) Train local people as bird guides, fostering a sense of ownership 3) Explore home stays and ecotourism as a revenue generating alternative. ',
+      'Research: 1) Estimate avifaunal diversity 2) Assess the socioeconomic condition of the indigenous farming tribes, especially post droughts 3) Gauge people’s awareness levels and ascertain extent of hunting',
+      'Awareness: 1) Conduct nature workshops to sensitize school children, teachers and parentss 2) Lead nature trails to reshape perspectives of villagers about avifauna ',
+      'Generation of alternative livelihoods: 1) Promote general awareness about Purna as a bird sanctuary 2) Coordinate with government departments to spread awareness 3) Train local youth as bird guides, fostering a sense of stewardship and ownership  4) Explore home stays and ecotourism as a revenue generating alternative',
     ],
   },
   {
@@ -95,8 +106,10 @@ const work: Position[] = [
     summary:
       'I worked in a project titled "Monitoring Tigers, Co-predators, Prey and their Habitat (All India Tiger Estimation)"',
     highlights: [
-      'Field work in the forests of Ranthambore, Rajasthan, Manas Tiger Reserve, Assam and Kaziranga National Park, Assam.',
-      'Field work involved collection of data on tiger, prey and habitat using camera traps, line transects, sign survey and vegetation sampling.',
+      'Conducted field research in critical tiger landscapes, including Ranthambore (Rajasthan), Manas Tiger Reserve (Assam), and Kaziranga National Park (Assam)',
+      'Collated and analysed ecological data on tigers, co-predators, prey populations, and habitat quality by using camera traps, line transects, sign surveys, and vegetation sampling',
+      'Contributed to national tiger population assessments, supporting conservation strategies under India’s Tiger Monitoring Program',
+      'Gained hands-on experience in wildlife monitoring, field data collection, and ecological survey techniques in diverse forest ecosystems',
     ],
   },
   {
@@ -106,7 +119,13 @@ const work: Position[] = [
     startDate: '2012-07-01',
     endDate: '2013-06-30',
     summary:
-      'The grant was provided to support my masters dissertation work on Avifaunal Diversity of Purna Widllife Sanctuary-Dangs region of Gujarat.',
+      'The grant was part of the project titled “Documentation of Amphibian, Reptilian and Avian Diversity of Purna Wildlife Sanctuary, Dang District, Gujarat”.',
+    highlights: [
+      'Conducted biodiversity surveys using point transects, fixed-point counts (birds), and visual encounter surveys (VES) to assess species richness',
+      'Performed extensive nocturnal surveys for amphibians and reptiles, contributing to baseline data in an understudied forest ecosystem',
+      'Submitted findings to Nature Club, Surat and the Gujarat Forest Department, supporting conservation planning',
+      'Data utilized for M.Sc. Dissertation (Dept. of Zoology, MSU Vadodara), enhancing academic and field research integration',
+    ],
   },
   {
     name: 'Indian Institute of Remote Sensing (IIRS)',
@@ -117,9 +136,10 @@ const work: Position[] = [
     summary:
       'I was part of the project "Biodiversity Characterisation at landscape level in North-West India and Lakshadweep Islands using Satellite Remote Sensing and Geographic Information System"',
     highlights: [
-      'Field work involved collection of data on vegetation, soil and land use/land cover using remote sensing techniques.',
-      'Laying out plots of 31.62 X 31.62m, 10 X 10m, 1 X 1m in the sanctuaries, national parks and protected areas of Gujarat State ',
-      'Collecting and documenting plant species and preparing an herbarium bank',
+      'Conducted field surveys across protected areas in Gujarat to collect data on vegetation, soil, and land use/land cover for satellite image validation',
+      'Laid out standardized vegetation plots (31.62 × 31.62 m, 10 × 10 m, and 1 × 1 m) as per National Remote Sensing Centre protocols ',
+      'Collected and identified plant specimens, contributing to herbarium preparation and species documentation',
+      'Gained valuable experience in integrating ground-based biodiversity data with remote sensing outputs for landscape-level ecological assessment',
     ],
   },
 ];

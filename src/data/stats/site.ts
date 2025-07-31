@@ -10,17 +10,17 @@ const data: StatData[] = [
   {
     label: 'Stars this repository has on github',
     key: 'stargazers_count',
-    link: 'https://github.com/mldangelo/personal-site/stargazers',
+    link: 'https://github.com/nikunjjambu/NJ-resume/stargazers',
   },
   {
     label: 'Number of people watching this repository',
     key: 'subscribers_count',
-    link: 'https://github.com/mldangelo/personal-site/stargazers',
+    link: 'https://github.com/nikunjjambu/NJ-resume/stargazers',
   },
   {
     label: 'Number of forks',
     key: 'forks',
-    link: 'https://github.com/mldangelo/personal-site/network',
+    link: 'https://github.com/nikunjjambu/NJ-resume/network',
   },
   {
     label: 'Number of spoons',
@@ -38,16 +38,17 @@ const data: StatData[] = [
   {
     label: 'Last updated at',
     key: 'pushed_at',
-    link: 'https://github.com/mldangelo/personal-site/commits',
-    format: (x: unknown) => dayjs(x as string).format('MMMM DD, YYYY'),
+    link: 'https://github.com/nikunjjambu/NJ-resume/commits',
+    format: (x: unknown) =>
+      dayjs(typeof x === 'string' ? x : new Date().toISOString()).format('MMMM DD, YYYY'),
   },
   {
     // TODO update this with a pre-commit hook
     /* find . | grep ".js" | grep -vE ".min.js|node_modules|.git|.json" |
     xargs -I file cat file | wc -l */
     label: 'Lines of TypeScript powering this website',
-    value: '2150',
-    link: 'https://github.com/mldangelo/personal-site/graphs/contributors',
+    value: '3150',
+    link: 'https://github.com/nikunjjambu/NJ-resume/graphs/contributors',
   },
 ];
 
